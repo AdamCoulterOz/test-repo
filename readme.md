@@ -4,4 +4,4 @@
 
 This is some text
 
-![Conceptual Pipeline](conceptual-pipeline.svg)
+![Conceptual Pipeline](https://raw.githubusercontent.com/ksix/test-repo/master/conceptual-pipeline.svg)
